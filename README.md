@@ -24,38 +24,5 @@
 <a href="https://chat.whatsapp.com/D7L8NP2Vnz7Eplx4OAvZdP"><img title="WHATSAPP GROUP" src="https://img.shields.io/badge/Whatsapp Group-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 ## DEPLOY HEROKUAPP
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/inirey/whatsapp-bot/)
-* Jika sudah mempunyai code session nya tinggal buat file session.data.json dan tempelkan kode nya di dalam file tersebut 
-* If you already have the session code, just create a session.data.json file and paste the code in the file
-* dan untuk termux silahkan beralih ke branch termux
-* and for termux users, please switch to the termux branch if it still doesn't support please just run using herokuapp, thanks
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhishekvao78/whatsapp-bot/)
 
-## ADD BUILDPACK HEROKU
-* heroku/nodejs
-* https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-* https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
-
----------
-
-## USERS WINDOWS/VPS/RDP
-
-* Instal Git [`click here`](https://git-scm.com/downloads)
-* Instal NodeJS [`click here`](https://nodejs.org/en/download)
-* Instal FFmpeg [`click here`](https://ffmpeg.org/download.html)
-* Instal ImageMagick [`click here`](https://imagemagick.org/script/download.php)
-
-## USERS TERMUX
-
-```bash
-git clone https://github.com/inirey/whatsapp-bot --branch termux
-cd whatsapp-bot
-npm i
-npm update
-node .
-```
-
----------
-
-### Thanks To 
-[`@Nurutomo`](https://github.com/Nurutomo)
-[`@ariffb`](https://github.com/ariffb25)
